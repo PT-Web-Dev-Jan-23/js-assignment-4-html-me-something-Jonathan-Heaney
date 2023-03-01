@@ -9,7 +9,7 @@
 
 /* Custom Properties */
 
-/* :root {
+:root {
   --ff-primary: 'Barlow', sans-serif;
   --ff-secondary: 'IBM Plex Sans', sans-serif;
 
@@ -28,7 +28,7 @@
   --fs-h4: 24px;
   --fs-h5: 20px;
   --fs-body: 18px;
-} */
+}
 
 /* General styles */
 
