@@ -34,7 +34,6 @@
 
 body {
   background: var(--clr-light);
-  color: var(--clr-dark);
   margin: 8px;
   display: block;
   font-family: var(--ff-primary);
@@ -196,11 +195,6 @@ header {
 .portfolio-item-individual p {
   font-weight: 300;
   font-size: var(--fs-body);
-}
-
-.opera-stats h1,
-.opera-stats h5 {
-  color: #0a2d4f;
 }
 
 .opera-stats h2 {
