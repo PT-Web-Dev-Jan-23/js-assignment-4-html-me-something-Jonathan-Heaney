@@ -10,8 +10,8 @@
 /* Custom Properties */
 
 :root {
-  --ff-primary: 'Barlow', sans-serif;
-  --ff-secondary: 'IBM Plex Sans', sans-serif;
+  --ff-primary: sans-serif;
+  --ff-secondary: sans-serif;
 
   --fw-reg: 300;
   --fw-bold: 700;
